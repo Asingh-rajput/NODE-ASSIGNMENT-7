@@ -1,0 +1,9 @@
+GET http://localhost:3000/api/student/4
+###
+POST http://localhost:3000/api/student/5?name=Dhoni&currentClass=10&division=D
+
+###
+PUT http://localhost:3000/api/student/4?name=abc&currentClass=5&division=A
+
+###
+DELETE http://localhost:3000/api/student/7
